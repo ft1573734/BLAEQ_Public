@@ -5,7 +5,9 @@ The code is fully implemented in Python, including three small datasets for inst
 
 # Requirements
 The following requirements must be met:
+
 Hardware:
+
     An NVIDIA GPU supporting CUDA.
 
 Environment:
