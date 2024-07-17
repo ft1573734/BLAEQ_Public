@@ -9,13 +9,13 @@ Hardware:
     An NVIDIA GPU supporting CUDA.
 
 Environment:
-    Python 3.x
-    cupy
-    numpy
-    cupyx
-    scipy
-    pickle (for loading default data set)
-    tqdm (for better display)
+    -Python 3.x
+    -cupy
+    -numpy
+    -cupyx
+    -scipy
+    -pickle (for loading default data set)
+    -tqdm (for better display)
 
 # HOW TO USE
 Simply drag all the .py files and the Data folder into a Python project and compile 'BLAEQ_Public.py'. The algorithm should start running with the default configuration.
