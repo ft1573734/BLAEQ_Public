@@ -9,12 +9,19 @@ Hardware:
     An NVIDIA GPU supporting CUDA.
 
 Environment:
+
     -Python 3.x
+    
     -cupy
+    
     -numpy
+    
     -cupyx
+    
     -scipy
+    
     -pickle (for loading default data set)
+    
     -tqdm (for better display)
 
 # HOW TO USE
