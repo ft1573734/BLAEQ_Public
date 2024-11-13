@@ -1,5 +1,5 @@
 # BLAEQ_Public
-The code to our submitted paper to SIGMOD 2025 titled BLAEQ: Efficient on-GPU Spatial Range Query of Large-scale CFD Mesh using BLAS
+The code to our submitted paper to VLDB 2025 titled BLAEQ: Efficient on-GPU Spatial Range Query of Large-scale CFD Mesh using BLAS
 
 The code is fully implemented in Python, including three small datasets for instant running.
 
